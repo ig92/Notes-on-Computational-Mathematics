@@ -1,0 +1,6 @@
+_minted*
+*.toc
+*.aux
+*.out
+*.log
+*.pyg
